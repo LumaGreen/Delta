@@ -1,0 +1,2 @@
+# Delta
+resolve quadratic equations
